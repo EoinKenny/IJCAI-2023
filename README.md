@@ -1,6 +1,6 @@
 # Advancing-Post-Hoc-Case-Based-Explanation-with-Feature-Highlighting
 
-![alt text](imgs/title.pdf "Title")
+![alt text](imgs/title2.png "Title")
 
 
 This is the repository for the paper *"Advancing Post-Hoc Case-Based Explanation With Feature Highlighting"*[^1].

@@ -1,11 +1,20 @@
 # Advancing-Post-Hoc-Case-Based-Explanation-with-Feature-Highlighting
 
-(This is a work in progress until IJCAI 2023)
+![alt text](imgs/title.pdf "Title")
 
-Expt. 1 and 2 will require a lot of work to recreate. The current material here is not enough to recreate the experiments, but we supply the code so that you can at least see the work was done. In order to recreate the tests you will have to download the datasets etc.
 
-For CUB you will have to fine-tune a ResNet34 to the dataset before starting, this model was far too big to include in this supplement. You also need to download the dataset.
+This is the repository for the paper *"Advancing Post-Hoc Case-Based Explanation With Feature Highlighting"*[^1].
 
-For ImageNet you can use the pre-trained ResNet50, but you will still need to download the dataset.
+The paper was published in the main technical track at IJCAI 2023.
 
-However, with all this prep-work, we have supplied all the code needed to recreate our results if you wish to do so.
+The paper proposes a way to augment typical example-based (i.e., case-based) explanation with feature highlighting. CNN specific and ANN agnostic approaches are proposed.
+
+
+### Bibtex
+
+```
+Coming Soon...
+```
+
+
+[^1]: Kenny, E.M., Delaney, E. and Keane, M. T., Advancing Post-Hoc Case-Based Explanation With Feature Highlighting. In * 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE.* Macao, China, 2023.

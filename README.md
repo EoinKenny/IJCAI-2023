@@ -9,6 +9,20 @@ The paper was published in the main technical track at IJCAI 2023.
 
 The paper proposes a way to augment typical example-based (i.e., case-based) explanation with feature highlighting. CNN specific and ANN agnostic approaches are proposed.
 
+***
+
+Reproduce
+
+***
+
+Run
+```
+conda create -name env
+conda activate env
+...
+...
+...
+```
 
 ### Bibtex
 

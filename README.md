@@ -15,6 +15,8 @@ Reproduce
 
 ***
 
+First download the ImageNet dataset [here]( https://www.kaggle.com/c/imagenet-object-localization-challenge), and the CUB-200 dataset [here](https://www.vision.caltech.edu/datasets/cub_200_2011/). Then move them to the 
+
 Run
 ```
 conda create -name env

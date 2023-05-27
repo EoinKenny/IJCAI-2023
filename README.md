@@ -15,7 +15,7 @@ Reproduce
 
 ***
 
-First download the ImageNet dataset [here]( https://www.kaggle.com/c/imagenet-object-localization-challenge), and the CUB-200 dataset [here](https://www.vision.caltech.edu/datasets/cub_200_2011/). Then move them to the 
+First download the ImageNet dataset [here]( https://www.kaggle.com/c/imagenet-object-localization-challenge), and the CUB-200 dataset [here](https://www.vision.caltech.edu/datasets/cub_200_2011/). You can put them where you like, but just make sure the dataloader in each functions.py file links to that directory. The default directories are the folders themselves (e.g., ImageNet).
 
 Run
 ```
